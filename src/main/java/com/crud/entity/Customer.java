@@ -43,7 +43,6 @@ public class Customer {
 		this.phoneNumber = phoneNumber;
 	}
 	
-
 	public int getCustomerId() {
 		return customerId;
 	}
